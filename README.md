@@ -1,4 +1,4 @@
-# Project Name
+﻿# Project Name
 * Software Engineer in Test
 * Coding Challenge Version 0.0.1
 
@@ -14,10 +14,10 @@ Requirements and implementation for this API linked below …
 ## Setup and test suite execution
 * Describe how to install / setup your local environement
 * Perform Git clone/pull on the branch.
-* All the files/folders should appears in /viper-assignment
+* All the files/folders should appears in /restapisuiteV2
 * Keep in mind the docker build might take few minutes
 * to complete.
-* cd //viper-assignment
+* cd to /restapisuiteV2
 * At the prompt enter:
 *	docker build  -t myapp:v0.1 .
 *	docker run -it myapp:v0.1 /bin/bash
